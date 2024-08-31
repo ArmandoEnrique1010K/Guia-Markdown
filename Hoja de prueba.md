@@ -26,16 +26,10 @@ Escribe código para introducir:
 
 - Fragmento de codigo: ````
 
-- Bloque de código (funciona con cualquier lenguaje):
+- Bloque de código (funciona con cualquier lenguaje, cambia js por cualquiera):
 
-```
 ```js
 console.log("Codigo js")
-```
-
-```
-```js
-console.log("Codigo js con sintaxis")
 ```
 
 Guia para trabajar con markdown: [https://www.markdownguide.org/](https://www.markdownguide.org/)
