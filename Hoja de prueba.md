@@ -26,7 +26,11 @@ Escribe código para introducir:
 
 - Fragmento de codigo: ````
 
-- Bloque de código (funciona con cualquier lenguaje, cambia js por cualquiera):
+- Bloque de código (funciona con cualquier lenguaje):
+
+```html
+<div>Codigo HTML</div>
+```
 
 ```js
 console.log("Codigo js")
