@@ -6,7 +6,9 @@ Instala MarkText desde su [página web oficial](https://www.marktext.cc/) para
 
 Escribe código para introducir:
 
-- Encabezados: `@h1`, `@h2`, `@h3`.
+- Cualquier tipo: `@` 
+
+- Encabezados: `# `, `## `, `### `.
 
 - Texto en negrita: `**texto**`
 
